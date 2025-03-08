@@ -2,6 +2,8 @@
 
 This project implements a Min-Heap data structure in C++, supporting operations such as insertion, deletion, decreasing a key, and heap construction from a file. It provides a command-line interface to interact with the heap, allowing users to execute commands to manipulate and display the heap.
 
+### **[Download Project](https://github.com/Josue-Caballero-Sanchez/min-heap-data-structure/archive/refs/heads/master.zip)**
+
 ![preview](preview.png)
 
 ## Built with
